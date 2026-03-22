@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/tiktokOnvANGL8HDCBZSgPFG8qWYFmnxJqqJFN.txt",
+      "dest": "/tiktokOnvANGL8HDCBZSgPFG8qWYFmnxJqqJFN.txt"
+    },
+    {
+      "src": "/privacy.html",
+      "dest": "/privacy.html"
+    },
+    {
+      "src": "/terms.html",
+      "dest": "/terms.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
